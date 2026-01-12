@@ -64,8 +64,7 @@ The goal is not to prevent cheating outright, but to increase attacker cost and 
 ## 🎮 Beyond the Terminal
 
 - 🥋 **BJJ Practitioner** - Because physical security matters too
-- 🎯 **Competitive Gamer** - Eternity 1 | Hela & Magik main
-- 📺 **Anime Enthusiast** - JoJo's Bizarre Adventure, JJK, Bleach,Berserk ETC
+- 📺 **Anime Enthusiast** - JoJo's Bizarre Adventure, JJK, Berserk ETC
 - 🏆 **HTB Academy Student** - Continuously sharpening my skills
 
 ## 🤝 Connect With Me
