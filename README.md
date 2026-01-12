@@ -25,7 +25,7 @@
 - **Learning:** Advanced reverse engineering & kernel-level security
 - **Certifications:** Planning Security+ and beyond
 - **Setup:** Win11 (main) | Arch + Hyprland (laptop)
-- **When AFK:** BJJ training, competitive gaming (Eternity 1 - Hela/Magik main), watching JoJo's
+- **When AFK:** BJJ training, studying, watching anime and OR reading manga
 
 ## 🔧 Tech Stack
 
