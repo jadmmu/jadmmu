@@ -7,13 +7,13 @@
 
 ---
 
-### 🔐 Security Researcher | Anti-Cheat Developer | Reverse Engineer
+###  Security Researcher | Anti-Cheat Developer | Reverse Engineer
 
 *"I'm not really sure why but my body has always been special."*
 
 </div>
 
-## 🛡️ About Me
+##  About Me
 ```
 > CS student focused on game security and exploit mitigation
 > Building defensive systems against memory exploitation
@@ -21,11 +21,11 @@
 
 ```
 
-- 🚧 **Currently working on:** Boogie Woogie — runtime dispatch virtualization with periodic pointer re-keying and verification.
+-  **Currently working on:** Boogie Woogie — runtime dispatch virtualization with periodic pointer re-keying and verification.
 - **Learning:** Advanced reverse engineering & kernel-level security
 - **Certifications:** Planning Security+ and beyond
 - **Setup:** Win11 (main) | Arch + Hyprland (laptop)
-- **When AFK:** BJJ training, studying, watching anime and OR reading manga
+
 
 ## 🔧 Tech Stack
 
@@ -49,25 +49,25 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🔍 [Kyubey-scan](https://github.com/squallstrings/kyubey-scan)
+###  [Kyubey-scan](https://github.com/squallstrings/kyubey-scan)
 Open-source OSINT tool for security research and reconnaissance. Built with Go for performance and reliability.
 
-### 🎲 Boogie Woogie Method *(In Development)*
+###  Boogie Woogie Method *(In Development)*
 A moving-target defense runtime for indirect control flow that reduces the reliability of pointer-based exploitation and memory hooks by making dispatch targets time-bound and non-stable during execution.
 The goal is not to prevent cheating outright, but to increase attacker cost and detection surface by expiring static exploitation assumptions at runtime.
 
 
 
 
-## 🎮 Beyond the Terminal
+##  Beyond the Terminal
 
-- 🥋 **BJJ Practitioner** - Because physical security matters too
-- 📺 **Anime Enthusiast** - JoJo's Bizarre Adventure, JJK, Berserk ETC
-- 🏆 **HTB Academy Student** - Continuously sharpening my skills
+-  **BJJ Practitioner** - Because physical security matters too
+-  **Anime Enthusiast** - JoJo's Bizarre Adventure, JJK, Berserk ETC
+-  **HTB Academy Student** - Continuously sharpening my skills
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/coolsean7)
 
