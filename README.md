@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome, I'm Jad 
+# Hello, I'm Jad 
 
 
 <img src="https://media1.tenor.com/m/XNRRNuKYxHwAAAAd/right-now-it%E2%80%99s-just-that-everything-feels-right-sorry-amanai-gojo.gif" width="500"/>
@@ -15,15 +15,15 @@
 
 ##  About Me
 ```
-> CS student focused on game security and exploit mitigation
-> Building defensive systems against memory exploitation
-> Reverse engineering software behavior (legally)
+> student focused on game security and exploit mitigation
+> making defensive software against memory exploitation
+> Reverse engineering software.
 
 ```
 
 -  **Currently working on:** Boogie Woogie — runtime dispatch virtualization with periodic pointer re-keying and verification.
 - **Learning:** Advanced reverse engineering & kernel-level security
-- **Certifications:** Planning Security+ and beyond
+- **Certifications:** Working on Comptia A+ 
 - **Setup:** Win11 (main) | Arch + Hyprland (laptop)
 
 
@@ -61,11 +61,11 @@ The goal is not to prevent cheating outright, but to increase attacker cost and 
 
 
 
-##  Beyond the Terminal
+##  Outside of github
 
--  **BJJ Practitioner** - Because physical security matters too
--  **Anime Enthusiast** - JoJo's Bizarre Adventure, JJK, Berserk ETC
--  **HTB Academy Student** - Continuously sharpening my skills
+-  **BJJ Practitioner** 
+-  **Anime and Manga Fan** 
+-  **HTB/CTF'S
 
 ##  Connect With Me
 
