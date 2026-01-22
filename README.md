@@ -65,7 +65,7 @@ The goal is not to prevent cheating outright, but to increase attacker cost and 
 
 -  **BJJ Practitioner** 
 -  **Anime and Manga Fan** 
--  **HTB/CTF'S
+-  **HTB/CTF'S**
 
 ##  Connect With Me
 
