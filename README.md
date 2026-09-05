@@ -1,86 +1,43 @@
 <div align="center">
 
-# Hello, I'm Jad 
+# Hello, I'm Jad
 
+### Mathematics | Physics | Computer Science
 
-<img src="https://media1.tenor.com/m/XNRRNuKYxHwAAAAd/right-now-it%E2%80%99s-just-that-everything-feels-right-sorry-amanai-gojo.gif" width="500"/>
-
----
-
-###  Security Researcher | Anti-Cheat Developer | Reverse Engineer
-
-*"I'm not really sure why but my body has always been special."*
+*"Read Euler, read Euler, he is the master of us all."*
+— Pierre-Simon Laplace
 
 </div>
 
-##  About Me
-```
-> student focused on game security and exploit mitigation
-> making defensive software against memory exploitation
-> Reverse engineering software.
+---
 
-```
+## About Me
 
--  **Currently working on:** Boogie Woogie — runtime dispatch virtualization with periodic pointer re-keying and verification.
-- **Learning:** Advanced reverse engineering & kernel-level security
-- **Certifications:** Working on Comptia A+ 
-- **Setup:** Win11 (main) | Arch + Hyprland (laptop)
+I'm an undergraduate mathematics student at **Youngstown State University** interested in problems at the intersection of mathematics, physics, and computer science.
 
+* **Mathematics:** PDEs, harmonic analysis, fluid mechanics
+* **Physics:** Fluid dynamics, mathematical physics
+* **Computer Science:** Compilers, formal verification, scientific computing, ML systems
+* **Background:** Systems programming, reverse engineering, and low-level security
+* **Currently exploring:** Efficient LLM inference and dynamic knowledge specialization
+* **Setup:** Windows 11 | Arch Linux + Hyprland
 
-## 🔧 Tech Stack
+## Tech
 
-### Security & Reverse Engineering
-![IDA](https://img.shields.io/badge/IDA_Pro-0078D4?style=for-the-badge&logo=reversinglabs&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-EF3B2D?style=for-the-badge&logo=reversinglabs&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+**Languages:** C++ · C · Haskell · Lean 4 · Python · Go · Rust
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Tools:** LLVM · Git · LaTeX · Linux
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Outside of GitHub
 
-##  Featured Projects
+BJJ · Philosophy · Writing · Anime & Manga · Probability & Stochastic Processes
 
-###  [Kyubey-scan](https://github.com/squallstrings/kyubey-scan)
-Open-source OSINT tool for security research and reconnaissance. Built with Go for performance and reliability.
-
-###  Boogie Woogie Method *(In Development)*
-A moving-target defense runtime for indirect control flow that reduces the reliability of pointer-based exploitation and memory hooks by making dispatch targets time-bound and non-stable during execution.
-The goal is not to prevent cheating outright, but to increase attacker cost and detection surface by expiring static exploitation assumptions at runtime.
-
-
-
-
-##  Outside of github
-
--  **BJJ Practitioner** 
--  **Anime and Manga Fan** 
--  **HTB/CTF'S**
-
-##  Connect With Me
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/coolsean7)
 
 ---
 
 <div align="center">
-  
-*"Okay, Jobs done you're free to go now."*
 
-
-
-</div><div align="center">
-
-
+"Mathematics is the queen of the sciences."
+— Carl Friedrich Gauss
 
 </div>
