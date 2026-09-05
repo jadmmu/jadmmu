@@ -15,7 +15,7 @@
 
 I'm an undergraduate mathematics student at **Youngstown State University** interested in problems at the intersection of mathematics, physics, and computer science.
 
-* **Mathematics:** PDEs, harmonic analysis, fluid mechanics
+* **Mathematics:** PDEs, harmonic analysis, probability & stochastic processes
 * **Physics:** Fluid dynamics, mathematical physics
 * **Computer Science:** Compilers, formal verification, scientific computing, ML systems
 * **Background:** Systems programming, reverse engineering, and low-level security
@@ -24,14 +24,13 @@ I'm an undergraduate mathematics student at **Youngstown State University** inte
 
 ## Tech
 
-**Languages:** C++ · C · Haskell · Lean 4 · Python · Go 
+**Languages:** C++ · C · Haskell · Lean 4 · Python · Go · Rust
 
 **Tools:** LLVM · Git · LaTeX · Linux
 
-## Outside of GitHub
+## Interests
 
-BJJ · Philosophy · Writing · Anime & Manga · Probability & Stochastic Processes
-
+Mathematics · Physics · Philosophy · Quantitative Finance · Writing · BJJ · Anime & Manga
 
 ---
 
