@@ -24,7 +24,7 @@ I'm an undergraduate mathematics student at **Youngstown State University** inte
 
 ## Tech
 
-**Languages:** C++ · C · Haskell · Lean 4 · Python · Go · Rust
+**Languages:** C++ · C · Haskell · Lean 4 · Python · Go 
 
 **Tools:** LLVM · Git · LaTeX · Linux
 
