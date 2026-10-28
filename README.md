@@ -19,7 +19,7 @@ I'm an undergraduate mathematics student at **Youngstown State University** inte
 * **Physics:** Fluid dynamics, mathematical physics
 * **Computer Science:** Compilers, formal verification, scientific computing, ML systems
 * **Background:** Systems programming, reverse engineering, and low-level security
-* **Currently exploring:** Efficient LLM inference and dynamic knowledge specialization
+* **Currently exploring:** Implementing typesafe LLM's onto edge devices as well as version control engines in video editing software
 * **Setup:** Windows 11 | Arch Linux + Hyprland
 
 ## Tech
